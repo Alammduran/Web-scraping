@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /Users/A_Analisis_Economico_Competecia/Desktop/Scrapy/Venta/inmu_casa_vta_gdl/
+scrapy crawl inmu_casa_vta_gdl_100619 -t csv
